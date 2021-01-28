@@ -1,0 +1,31 @@
+.container{
+  
+  margin-top: 80px;
+  margin-left: 70px;
+  width: 80%;
+  position: relative;
+  font: 20px Calibri;
+  color: rgb(17, 16, 16);
+}
+table {
+   width: 70%;
+   }
+table, th, td {
+  text-align: center;
+   border: solid 2px rgb(88, 88, 119);
+  border-collapse: collapse; 
+  padding: 4px 3px;
+}
+#bt{
+  margin-top: 50px;
+  margin-left: 100px;
+
+}
+
+table
+{
+  margin-top: 5px;
+  margin-left: 100px;
+  border-collapse: collapse;
+   border: 1px solid #2f2f2f; 
+} 
